@@ -12,3 +12,8 @@ Click [here](https://github.com/simaosantos01/oriented-object-programming-projec
 Project developed within the scope of the Software Engineering 2 course unit.
 
 Click [here](https://github.com/simaosantos01/software-engineering-project) to access the project!
+
+### - Rest Api Project
+Project developed within the scope of the Structured Information Processing course unit.
+
+Click [here](https://github.com/simaosantos01/rest-api-project) to access the project!
