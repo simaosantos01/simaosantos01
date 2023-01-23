@@ -24,7 +24,7 @@ Project developed within the scope of the Operating Systems course unit, and con
 Click [here](https://github.com/simaosantos01/thread-synchronization-project) to access the project!
 
 ### :black_medium_square: Data Structures Project
-Project developed within the scope of the Data Structures course unit, and consisted on the development of a Java API that could handle the managment of a merchant delivery company, mainly using graph theory to solve the problems associated when elaborating, the best performing distribution routes, for each worker.
+Project developed within the scope of the Data Structures course unit, and consisted on the development of a Java API that could handle the management of a merchant delivery company, mainly using graph theory to solve the problems associated when elaborating, the best performing distribution routes, for each worker.
 
 Click [here](https://github.com/simaosantos01/data-structures-project) to access the project!
 
@@ -35,6 +35,7 @@ The software consists of two major components. First, the REST API is built on t
 Click [here](https://github.com/simaosantos01/web-development-project) to access the project!
 
 ### :black_medium_square: Databases Project
-Project developed within the scope of the databases course unit and consisted on the design and implementation of a restaurant database. 
+Project developed within the scope of the databases course unit and consisted on the design and implementation of a restaurant database.
+The database design follows carefully all the steps dictated on the book "Database Systems - A Practical Approach to Design, Implementation and Management" and for the implementation was used MSQL server.
 
 Click [here](https://github.com/simaosantos01/databases-project) to access the project!
