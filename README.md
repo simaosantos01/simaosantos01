@@ -17,3 +17,23 @@ Click [here](https://github.com/simaosantos01/software-engineering-project) to a
 Project developed within the scope of the Structured Information Processing course unit.
 
 Click [here](https://github.com/simaosantos01/rest-api-project) to access the project!
+
+### - Thread Synchronization Project
+Project developed within the scope of the Operating Systems course unit.
+
+Click [here](https://github.com/simaosantos01/thread-synchronization-project) to access the project!
+
+### - Data Structures Project
+Project developed within the scope of the Data Structures course unit.
+
+Click [here](https://github.com/simaosantos01/data-structures-project) to access the project!
+
+### - Web Development Project
+Project developed within the scope of the web development course unit.
+
+Click [here](https://github.com/simaosantos01/web-development-project) to access the project!
+
+### - Databases Project
+Project developed within the scope of the databases course unit.
+
+Click [here](https://github.com/simaosantos01/databases-project) to access the project!
