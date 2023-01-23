@@ -8,7 +8,7 @@ Project developed within the scope of the Programming Paradigms course unit.
 
 Click [here](https://github.com/simaosantos01/oriented-object-programming-project) to access the project!
 
-### - Oriented Object Programming Project
-Project developed within the scope of the Programming Paradigms course unit.
+### - Software Engineering Project
+Project developed within the scope of the Software Engineering 2 course unit.
 
-Click [here](https://github.com/simaosantos01/oriented-object-programming-project) to access the project!
+Click [here](https://github.com/simaosantos01/software-engineering-project) to access the project!
