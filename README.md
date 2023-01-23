@@ -29,11 +29,12 @@ Project developed within the scope of the Data Structures course unit, and consi
 Click [here](https://github.com/simaosantos01/data-structures-project) to access the project!
 
 ### :black_medium_square: Web Development Project
-Project developed within the scope of the web development course unit.
+Project developed within the scope of the web development course unit and consisted on the development of a books webstore from a client-server paradigm.
+The software consists of two major components. First, the REST API is built on top of the MVC paradigm which will serve as a way of communication with the client side using requests and responses over the HTTP protocol, and the second as a client side application.
 
 Click [here](https://github.com/simaosantos01/web-development-project) to access the project!
 
 ### :black_medium_square: Databases Project
-Project developed within the scope of the databases course unit.
+Project developed within the scope of the databases course unit and consisted on the design and implementation of a restaurant database. 
 
 Click [here](https://github.com/simaosantos01/databases-project) to access the project!
