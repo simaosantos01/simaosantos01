@@ -4,27 +4,27 @@ At the moment, I am pursuing a degree in informatics engineering at ESTG-IPP and
 ## My Academic Projects :mortar_board:
 
 ### :black_medium_square: Oriented Object Programming Project
-Project developed within the scope of the Programming Paradigms course unit and consisted on the development of a Java API that is able to support the requirements of an environmental quality parameter monitoring tool, collected through various sensors installed at various control stations.
+Project developed within the scope of the Programming Paradigms course unit, and consisted on the development of a Java API that is able to support the requirements of an environmental quality parameter monitoring tool, collected through various sensors installed at various control stations.
 
 Click [here](https://github.com/simaosantos01/oriented-object-programming-project) to access!
 
 ### :black_medium_square: Software Engineering Project
-Project developed within the scope of the Software Engineering 2 course unit and consists of creating a software for a company that aims to facilitate product transactions between other companies on a national level.
+Project developed within the scope of the Software Engineering 2 course unit, and consists of creating a software for a company that aims to facilitate product transactions between other companies on a national level.
 
 Click [here](https://github.com/simaosantos01/software-engineering-project) to access!
 
 ### :black_medium_square: Rest Api Project
-Project developed within the scope of the Structured Information Processing course unit and consisted on the development of a REST API to help Santa Claus managing his visits to the factory. The API handles the submission of XML files with the necessary data to book a new visit to the factory, queries for getting the available slots during a time frame and the cancelation of a booked visit. All the data can be imported to mongo by executing a bash script and can be viewed on mongo charts.
+Project developed within the scope of the Structured Information Processing course unit, and consisted on the development of a REST API to help Santa Claus managing his visits to the factory. The API handles the submission of XML files with the necessary data to book a new visit to the factory, queries for getting the available slots during a time frame and the cancelation of a booked visit. All the data can be imported to mongo by executing a bash script and can be viewed on mongo charts.
 
 Click [here](https://github.com/simaosantos01/rest-api-project) to access the project!
 
 ### :black_medium_square: Thread Synchronization Project
-Project developed within the scope of the Operating Systems course unit.
+Project developed within the scope of the Operating Systems course unit, and consisted on the development of a Java application that makes use of multiprocessing, communication and synchronization techniques to emulate a car washing machine system.
 
 Click [here](https://github.com/simaosantos01/thread-synchronization-project) to access the project!
 
 ### :black_medium_square: Data Structures Project
-Project developed within the scope of the Data Structures course unit.
+Project developed within the scope of the Data Structures course unit, and consisted on the development of a Java API that could handle the managment of a merchant delivery company, mainly using graph theory to solve the problems associated when elaborating, the best performing distribution routes, for each worker.
 
 Click [here](https://github.com/simaosantos01/data-structures-project) to access the project!
 
